@@ -1,15 +1,15 @@
 # Building GraphQL ASP.NET CORE
 ## Schema GraphQL
-![Schema GraphQL](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cb1778d6-1815-4af9-97a0-7ea189241fda/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210120%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210120T154709Z&X-Amz-Expires=86400&X-Amz-Signature=7d217d365081f971b85ca4ba0343a3734b1c9073c2942ef401dae7a49caa10db&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
+![Schema GraphQL](https://storage.cloudconvert.com/tasks/2bf413ab-fc0a-4975-b564-52bf4e2ee290/Untitled3.jpg?AWSAccessKeyId=cloudconvert-production&Expires=1611678905&Signature=qx8v29VZBuUmPT93wH1J0ptZjJc%3D&response-content-disposition=inline%3B%20filename%3D%22Untitled3.jpg%22&response-content-type=image%2Fjpeg)
 
 ## GraphQL API
-![GraphQL API](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/118820b7-2dbb-486a-b7fb-6484578ec633/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210120%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210120T154832Z&X-Amz-Expires=86400&X-Amz-Signature=4ed690561f59104e01b9a8e7e0503d9a06255e07b82862ede0dbb8898bed11d7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
+![GraphQL API](https://storage.cloudconvert.com/tasks/ad11b140-ba60-4182-bf88-fa0ea61d9a5f/Untitled4.jpg?AWSAccessKeyId=cloudconvert-production&Expires=1611678905&Signature=LdKFMNU5rgNtyCoaSUSSKG9NvCw%3D&response-content-disposition=inline%3B%20filename%3D%22Untitled4.jpg%22&response-content-type=image%2Fjpeg)
 
 ## GraphQL STRUCTURE
-![GraphQL STRUCTURE](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9f0f3d19-0e13-401c-9f67-d2bee8b84628/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210120%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210120T154943Z&X-Amz-Expires=86400&X-Amz-Signature=eeb58f0c0f8e4998b8efddab842cfcf1275d88885ba9d09972bab5f599626079&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
+![GraphQL STRUCTURE](https://storage.cloudconvert.com/tasks/44ea0426-8923-46b7-acc6-fa0a2fb9dc4c/Untitled5.jpg?AWSAccessKeyId=cloudconvert-production&Expires=1611678904&Signature=%2FQevb9ZU3Lm9ZjPjWtR1ksca8i8%3D&response-content-disposition=inline%3B%20filename%3D%22Untitled5.jpg%22&response-content-type=image%2Fjpeg)
 
 ## Concepts of Fragments
-![GraphQL Fragments](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/14d5eb41-49c2-4a99-a82a-dd931b06701f/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210120%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210120T155216Z&X-Amz-Expires=86400&X-Amz-Signature=54e3e27e54d8b9395bcd82ab20aa05f22fce125d17ad2fc83bc4acc9aac98610&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
+![GraphQL Fragments](https://storage.cloudconvert.com/tasks/2eba25b5-8df9-4254-be0e-dc10a0b9dbdd/Untitled7.jpg?AWSAccessKeyId=cloudconvert-production&Expires=1611678904&Signature=Y3GHBR46xqb3fBQGnZ9LCr4dtt4%3D&response-content-disposition=inline%3B%20filename%3D%22Untitled7.jpg%22&response-content-type=image%2Fjpeg)
 
 ## Directives(Include / Skip)
-![GraphQL Directives](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0abfdc7f-b93d-40bb-8b8b-b970f61d1452/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210120%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210120T155348Z&X-Amz-Expires=86400&X-Amz-Signature=93203f749d7b30621f27e87fe4c1c69ccaeb3f4e6cd78dbd5e6452aba48a4c33&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
+![GraphQL Directives](https://storage.cloudconvert.com/tasks/18844bde-b74a-4483-a9b8-433438b07125/Untitled6.jpg?AWSAccessKeyId=cloudconvert-production&Expires=1611678906&Signature=H2QvTblR1YZk2u%2F1NID2fKHPevA%3D&response-content-disposition=inline%3B%20filename%3D%22Untitled6.jpg%22&response-content-type=image%2Fjpeg)
