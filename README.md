@@ -9,7 +9,7 @@
 ![GraphQL STRUCTURE](https://storage.cloudconvert.com/tasks/44ea0426-8923-46b7-acc6-fa0a2fb9dc4c/Untitled5.jpg?AWSAccessKeyId=cloudconvert-production&Expires=1611678904&Signature=%2FQevb9ZU3Lm9ZjPjWtR1ksca8i8%3D&response-content-disposition=inline%3B%20filename%3D%22Untitled5.jpg%22&response-content-type=image%2Fjpeg)
 
 ## Concepts of Fragments
-![GraphQL Fragments](https://storage.cloudconvert.com/tasks/2eba25b5-8df9-4254-be0e-dc10a0b9dbdd/Untitled7.jpg?AWSAccessKeyId=cloudconvert-production&Expires=1611678904&Signature=Y3GHBR46xqb3fBQGnZ9LCr4dtt4%3D&response-content-disposition=inline%3B%20filename%3D%22Untitled7.jpg%22&response-content-type=image%2Fjpeg)
+![GraphQL Fragments](https://storage.cloudconvert.com/tasks/2c9e690a-c43b-43ec-b88e-68226bbb8a86/Untitled7.png?AWSAccessKeyId=cloudconvert-production&Expires=1611853436&Signature=rdwaOrtG8kUhCM6pPyqURfFVWgQ%3D&response-content-disposition=inline%3B%20filename%3D%22Untitled7.png%22&response-content-type=image%2Fpng)
 
 ## Directives(Include / Skip)
-![GraphQL Directives](https://storage.cloudconvert.com/tasks/18844bde-b74a-4483-a9b8-433438b07125/Untitled6.jpg?AWSAccessKeyId=cloudconvert-production&Expires=1611678906&Signature=H2QvTblR1YZk2u%2F1NID2fKHPevA%3D&response-content-disposition=inline%3B%20filename%3D%22Untitled6.jpg%22&response-content-type=image%2Fjpeg)
+![GraphQL Directives](https://storage.cloudconvert.com/tasks/baeaed88-e959-4b34-9eea-6739fd9f8ff3/Untitled6.png?AWSAccessKeyId=cloudconvert-production&Expires=1611853436&Signature=CN%2FYhZ0fFh0%2ByxNMo1usbU7qN50%3D&response-content-disposition=inline%3B%20filename%3D%22Untitled6.png%22&response-content-type=image%2Fpng)
