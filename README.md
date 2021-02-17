@@ -1,7 +1,7 @@
 # Building GraphQL ASP.NET CORE
 ## Schema GraphQL
 
-![Schema GraphQL](/Imatges/Untitled3.jpg?raw=true "Optional Title")
+![Schema GraphQL](/Imatges/Untitled3.png?raw=true "Optional Title")
 
 ## GraphQL API
 ![GraphQL API](https://storage.cloudconvert.com/tasks/ad11b140-ba60-4182-bf88-fa0ea61d9a5f/Untitled4.jpg?AWSAccessKeyId=cloudconvert-production&Expires=1611678905&Signature=LdKFMNU5rgNtyCoaSUSSKG9NvCw%3D&response-content-disposition=inline%3B%20filename%3D%22Untitled4.jpg%22&response-content-type=image%2Fjpeg)
